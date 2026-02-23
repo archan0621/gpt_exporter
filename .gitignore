@@ -1,6 +1,7 @@
 # 내보내기 결과물
 Result/
 json_result/
+json_result.tar.gz
 
 # 입력 데이터 (개인 대화)
 conversations.json
